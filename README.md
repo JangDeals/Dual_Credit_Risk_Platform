@@ -1,0 +1,1 @@
+# Dual Credit Risk Assessment Platform\nPD modeling and risk grading for individual and SME borrowers
