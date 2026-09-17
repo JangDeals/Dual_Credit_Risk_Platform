@@ -1,1 +1,8 @@
-so raw data, caches, and environment clutter never get committed to Git in Module 3: data/raw/* data/processed/* __pycache__/ *.pyc .ipynb_checkpoints/ .vscode/ models/*.pkl models/*.joblib
+data/raw/*
+data/processed/*
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+models/*.pkl
+models/*.joblib
