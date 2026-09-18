@@ -23,6 +23,7 @@ contourpy @ file:///D:/bld/bld/rattler-build_contourpy_1789310439/work
 cycler @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_cycler_1764466758/work
 debugpy==1.8.20
 defusedxml @ file:///home/conda/feedstock_root/build_artifacts/defusedxml_1615232257335/work
+et_xmlfile @ file:///home/conda/feedstock_root/build_artifacts/et_xmlfile_1733749653422/work
 executing @ file:///home/conda/feedstock_root/build_artifacts/executing_1756729339227/work
 fastjsonschema @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_python-fastjsonschema_1786892280/work/dist
 fonttools @ file:///D:/bld/fonttools_1789076234402/work
@@ -80,6 +81,7 @@ notebook @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_n
 notebook_shim @ file:///home/conda/feedstock_root/build_artifacts/notebook-shim_1733408315203/work
 numba @ file:///D:/bld/bld/rattler-build_numba_1787145508/work
 numpy @ file:///D:/bld/bld/rattler-build_numpy_1788731982/work/dist/numpy-2.5.3-cp313-cp313-win_amd64.whl#sha256=c7b47ea5a702d6956491c71a6a651210ec4508a4abb5d4cdced71e206e596156
+openpyxl @ file:///D:/bld/openpyxl_1788523064224/work
 overrides @ file:///home/conda/feedstock_root/build_artifacts/overrides_1734587627321/work
 packaging==26.3
 pandas @ file:///D:/bld/bld/rattler-build_pandas_1785276280/work

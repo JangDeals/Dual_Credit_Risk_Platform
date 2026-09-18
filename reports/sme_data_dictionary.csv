@@ -1,0 +1,26 @@
+field,dtype,missing_pct,description
+Rating Agency,str,0.0,"Agency that issued the credit rating (e.g. S&P, Moody's)"
+Corporation,str,0.0,Name of the rated company
+Rating,str,0.0,"Letter credit rating assigned (e.g. AAA, BB, CCC)"
+Rating Date,str,0.0,Date the rating was issued
+CIK,int64,0.0,"SEC Central Index Key, unique identifier for the filer"
+Binary Rating,int64,0.0,Simplified rating: likely investment-grade (1) vs speculative-grade (0)
+SIC Code,float64,0.0,Standard Industrial Classification code for the company's industry
+Sector,str,0.0,Broad industry sector
+Ticker,str,0.0,Stock ticker symbol
+Current Ratio,float64,0.0,Current assets / current liabilities — short-term liquidity
+Long-term Debt / Capital,float64,0.0,Long-term debt as a share of total capital — leverage
+Debt/Equity Ratio,float64,0.0,Total debt / shareholder equity — leverage
+Gross Margin,float64,0.0,Gross profit / revenue — production efficiency
+Operating Margin,float64,0.0,Operating income / revenue — core profitability
+EBIT Margin,float64,0.0,Earnings before interest & tax / revenue
+EBITDA Margin,float64,0.0,"Earnings before interest, tax, depreciation & amortization / revenue"
+Pre-Tax Profit Margin,float64,0.0,Pre-tax income / revenue
+Net Profit Margin,float64,0.0,Net income / revenue — bottom-line profitability
+Asset Turnover,float64,0.0,Revenue / total assets — efficiency of asset use
+ROE - Return On Equity,float64,0.0,Net income / shareholder equity
+Return On Tangible Equity,float64,0.0,Net income / tangible equity (excludes intangibles/goodwill)
+ROA - Return On Assets,float64,0.0,Net income / total assets
+ROI - Return On Investment,float64,0.0,Return relative to invested capital
+Operating Cash Flow Per Share,float64,0.0,Operating cash flow / shares outstanding
+Free Cash Flow Per Share,float64,0.0,Free cash flow / shares outstanding

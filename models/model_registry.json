@@ -1,0 +1,10 @@
+{
+  "v1.0.0": {
+    "individual_model_file": "individual_model_v1.0.0.pkl",
+    "sme_model_file": "sme_model_v1.0.0.pkl",
+    "date_created": "2026-09-18",
+    "individual_test_auc": 0.7397,
+    "sme_test_auc": 0.9547,
+    "notes": "Individual model trained on 10k-row stratified sample, not full 1.1GB source file."
+  }
+}
